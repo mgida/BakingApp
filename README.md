@@ -15,3 +15,6 @@ Use Fragments to create a responsive design that works on phones and tablets.
 App Description
 Your task is to create a Android Baking App that will allow Udacity’s resident baker-in-chief, Miriam, to share her recipes with the world. You will create an app that will allow a user to select a recipe and see video-guided steps for how to complete it.
 
+![baking1](https://user-images.githubusercontent.com/38481452/109364037-94189a80-7896-11eb-89d3-04e7d5a905ef.PNG)
+![baking2](https://user-images.githubusercontent.com/38481452/109364078-a561a700-7896-11eb-87e6-fd26c5901a28.PNG)
+![baking3](https://user-images.githubusercontent.com/38481452/109364088-aa265b00-7896-11eb-9efc-d4378f8caa74.PNG)
